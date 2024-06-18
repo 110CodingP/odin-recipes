@@ -1,0 +1,12 @@
+* {
+    font-family: "Courier New",Monospace;
+}
+.homepage-heading {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(227, 178, 97);
+}
+
+.menu {
+    font-size: 22px;
+}
